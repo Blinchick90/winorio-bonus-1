@@ -18,4 +18,4 @@ User-agent: DotBot
 User-agent: CCBot
 Disallow: /
 
-Sitemap: https://winorio-bonus-1.vercel.app/sitemap.xml
+Sitemap: https://winorio-bonus-1-pi.vercel.app/sitemap.xml
